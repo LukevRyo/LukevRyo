@@ -8,7 +8,7 @@
    <p align="center">
      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br>
-    <samp align=center> ServiceNow, HTML5, CSS, JavaScript, PHP.</samp>
+    <samp align=center> ServiceNow, HTML5, CSS, JavaScript, PHP, VScode, Git, GitHub.</samp>
   </p>
 
 <h2 align="center"> 👻 Contact me </h2>
