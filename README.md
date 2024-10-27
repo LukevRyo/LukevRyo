@@ -1,7 +1,7 @@
 <h1 align="center">🦇 Hey there, i'm Luke!</h1>
 <p align="center"> (Open for Hiring)</p><br><br>
   <samp align="left">🕷️ aspiring software engineer and cybersecurity specialist</samp><br/>
-  <samp align="left">🎃 Studying Computer Science</samp><br/>
+  <samp align="left">🎃 Computer Science</samp><br/>
  <samp align="left"> 🕸️ Currently learning C and C++</samp><br/>
   
 <h2 align="center"> 🔪 Languages and Tools</h2>
